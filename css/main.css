@@ -1,0 +1,74 @@
+/* mi header*/
+body{
+	margin: 10px 0px;
+	width: 100%;
+	font-family: "Open-sans";
+}
+.botonamarillo{
+	font-family: Arial;
+	background-color: #F5AC2C;
+	border-color: 0;
+}
+header{
+	
+	background-image: url(../img/grupal.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 760px;
+	margin:0 auto;
+}
+.boton{
+	display: inline-block;
+	background-color:  #F5AC2C;
+	border-radius: 5px;
+	margin: 80px 0 0 150px;
+	padding: 10px 20px;
+}
+.logo{
+	display: inline-block;
+	width: 500px;
+	float: left;
+	margin: 100px 0 0 30px;
+}
+.enlaces{
+	text-decoration: none;
+	float: left;
+	color: black;
+	font-family: Arial;
+	margin: 80px 0 0 15px;
+}
+li{
+	list-style: none;
+}
+/* el contenedor 3 fotos*/
+.fotostres{
+	width: 350px;
+	margin: 20px 95px;
+}
+.col-4{
+	width: 28%;
+}
+.primera{
+	margin-left: 100px;
+}
+.texto{
+	margin-left: 100px;
+	font-size: 18px;
+	text-decoration:none;
+	color: black;
+	font-family: Arial;
+	font-weight: 600
+}
+/* pie */
+.containerdos{
+	background-color: #4C4545;
+	font-family: arial;
+}
+.textoblanco{
+	color: white;
+	float:left;
+	margin-left: 50px;
+	padding: 20px;
+
+}
+
